@@ -6,9 +6,9 @@ namespace Queue
 {
     public class Queue : IQueue
     {
-        private int[]Que = new int[10];
+        private int[] Que = new int[10];
         private int count = 0;
-        
+
         public int Pop()
         {
             if (Que.Length == 0)
@@ -18,15 +18,15 @@ namespace Queue
             else
             {
                 int savedElement = Que[0];
-                for (int i = 0; i < Que.Length -1; i++)
+                for (int i = 0; i < Que.Length - 1; i++)
                 {
                     Que[i] = Que[i + 1];
                 }
                 count--;
                 return savedElement;
             }
-            
-        } 
+
+        }
 
         public void Push(int take)
         {
@@ -43,14 +43,21 @@ namespace Queue
             }
         }
 
-        bool IQueue.IsEmpty()
+        bool IQueue.IsEmpty() //пуст или нет
         {
-            throw new System.NotImplementedException();
+            if (count == 0)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
         }
 
         int IQueue.TakeTop()
         {
-            throw new System.NotImplementedException();
+            return Que[0];
         }
         /*public T TakeTop()
         {
