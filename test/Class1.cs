@@ -13,11 +13,11 @@ namespace test
     {
 
         [Test()]
-       
+
         public void Test1()
         {
-            Queue asd = new Queue();
-           asd.Push(2);
+            IQueue asd = new Queue();
+            asd.Push(2);
             int expected = 1;
             int actual = asd.count;
         }
