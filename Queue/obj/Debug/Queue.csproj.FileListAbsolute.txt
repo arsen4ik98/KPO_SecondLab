@@ -3,3 +3,5 @@ C:\Users\Арсен\Desktop\vv\KPO_SecondLab\Queue\bin\Debug\Queue.pdb
 C:\Users\Арсен\Desktop\vv\KPO_SecondLab\Queue\obj\Debug\Queue.csprojResolveAssemblyReference.cache
 C:\Users\Арсен\Desktop\vv\KPO_SecondLab\Queue\obj\Debug\Queue.exe
 C:\Users\Арсен\Desktop\vv\KPO_SecondLab\Queue\obj\Debug\Queue.pdb
+C:\Users\Арсен\Desktop\vv\KPO_SecondLab\Queue\bin\Debug\nunit.framework.dll
+C:\Users\Арсен\Desktop\vv\KPO_SecondLab\Queue\bin\Debug\nunit.framework.xml
