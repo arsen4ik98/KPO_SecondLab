@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b267a848-425b-482a-a193-ba65313ff286" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.Queue/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Queue/Queue.cs" afterPath="$PROJECT_DIR$/Queue/Queue.cs" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,21 +32,22 @@
       <file leaf-file-name="Queue.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Queue/Queue.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+            <state relative-caret-position="378">
+              <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
               <folding>
-                <marker date="1506148695270" expanded="true" signature="6:94" ph="..." />
-                <marker date="1506148695270" expanded="true" signature="111:1036" ph="{...}" />
-                <marker date="1506148695270" expanded="true" signature="145:1034" ph="{...}" />
-                <marker date="1506148695270" expanded="true" signature="256:469" ph="{...}" />
-                <marker date="1506148695270" expanded="true" signature="299:384" ph="{...}" />
-                <marker date="1506148695270" expanded="true" signature="401:446" ph="{...}" />
-                <marker date="1506148695270" expanded="true" signature="506:751" ph="{...}" />
-                <marker date="1506148695270" expanded="true" signature="553:636" ph="{...}" />
-                <marker date="1506148695270" expanded="true" signature="653:741" ph="{...}" />
-                <marker date="1506148695270" expanded="true" signature="782:858" ph="{...}" />
-                <marker date="1506148695270" expanded="true" signature="888:964" ph="{...}" />
-                <marker date="1506148695270" expanded="true" signature="973:1028" ph="/* public T TakeTop() ... */" />
+                <marker date="1506153180374" expanded="true" signature="6:94" ph="..." />
+                <marker date="1506153180374" expanded="true" signature="111:1317" ph="{...}" />
+                <marker date="1506153180374" expanded="true" signature="145:1315" ph="{...}" />
+                <marker date="1506153180374" expanded="true" signature="256:690" ph="{...}" />
+                <marker date="1506153180374" expanded="true" signature="299:384" ph="{...}" />
+                <marker date="1506153180374" expanded="true" signature="401:667" ph="{...}" />
+                <marker date="1506153180374" expanded="true" signature="514:591" ph="{...}" />
+                <marker date="1506153180374" expanded="true" signature="727:1032" ph="{...}" />
+                <marker date="1506153180374" expanded="true" signature="774:917" ph="{...}" />
+                <marker date="1506153180374" expanded="true" signature="934:1022" ph="{...}" />
+                <marker date="1506153180374" expanded="true" signature="1063:1139" ph="{...}" />
+                <marker date="1506153180374" expanded="true" signature="1169:1245" ph="{...}" />
+                <marker date="1506153180374" expanded="true" signature="1254:1309" ph="/* public T TakeTop() ... */" />
               </folding>
             </state>
           </provider>
@@ -238,12 +239,12 @@
       <option name="presentableId" value="Default" />
       <updated>1506144883304</updated>
       <workItem from="1506144888125" duration="662000" />
-      <workItem from="1506145588630" duration="3599000" />
+      <workItem from="1506145588630" duration="5069000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4261000" />
+    <option name="totallyTimeSpent" value="5731000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -255,7 +256,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="382" y="33" width="1226" height="1000" extended-state="0" />
+    <frame x="382" y="33" width="1226" height="1000" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -309,18 +310,19 @@
         <state relative-caret-position="72">
           <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
           <folding>
-            <marker date="1506148695270" expanded="true" signature="6:94" ph="..." />
-            <marker date="1506148695270" expanded="true" signature="111:1036" ph="{...}" />
-            <marker date="1506148695270" expanded="true" signature="145:1034" ph="{...}" />
-            <marker date="1506148695270" expanded="true" signature="256:469" ph="{...}" />
-            <marker date="1506148695270" expanded="true" signature="299:384" ph="{...}" />
-            <marker date="1506148695270" expanded="true" signature="401:446" ph="{...}" />
-            <marker date="1506148695270" expanded="true" signature="506:751" ph="{...}" />
-            <marker date="1506148695270" expanded="true" signature="553:636" ph="{...}" />
-            <marker date="1506148695270" expanded="true" signature="653:741" ph="{...}" />
-            <marker date="1506148695270" expanded="true" signature="782:858" ph="{...}" />
-            <marker date="1506148695270" expanded="true" signature="888:964" ph="{...}" />
-            <marker date="1506148695270" expanded="true" signature="973:1028" ph="/* public T TakeTop() ... */" />
+            <marker date="1506153180374" expanded="true" signature="6:94" ph="..." />
+            <marker date="1506153180374" expanded="true" signature="111:1317" ph="{...}" />
+            <marker date="1506153180374" expanded="true" signature="145:1315" ph="{...}" />
+            <marker date="1506153180374" expanded="true" signature="256:690" ph="{...}" />
+            <marker date="1506153180374" expanded="true" signature="299:384" ph="{...}" />
+            <marker date="1506153180374" expanded="true" signature="401:667" ph="{...}" />
+            <marker date="1506153180374" expanded="true" signature="514:591" ph="{...}" />
+            <marker date="1506153180374" expanded="true" signature="727:1032" ph="{...}" />
+            <marker date="1506153180374" expanded="true" signature="774:917" ph="{...}" />
+            <marker date="1506153180374" expanded="true" signature="934:1022" ph="{...}" />
+            <marker date="1506153180374" expanded="true" signature="1063:1139" ph="{...}" />
+            <marker date="1506153180374" expanded="true" signature="1169:1245" ph="{...}" />
+            <marker date="1506153180374" expanded="true" signature="1254:1309" ph="/* public T TakeTop() ... */" />
           </folding>
         </state>
       </provider>
@@ -362,21 +364,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Queue/Queue.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        <state relative-caret-position="378">
+          <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
           <folding>
-            <marker date="1506148695270" expanded="true" signature="6:94" ph="..." />
-            <marker date="1506148695270" expanded="true" signature="111:1036" ph="{...}" />
-            <marker date="1506148695270" expanded="true" signature="145:1034" ph="{...}" />
-            <marker date="1506148695270" expanded="true" signature="256:469" ph="{...}" />
-            <marker date="1506148695270" expanded="true" signature="299:384" ph="{...}" />
-            <marker date="1506148695270" expanded="true" signature="401:446" ph="{...}" />
-            <marker date="1506148695270" expanded="true" signature="506:751" ph="{...}" />
-            <marker date="1506148695270" expanded="true" signature="553:636" ph="{...}" />
-            <marker date="1506148695270" expanded="true" signature="653:741" ph="{...}" />
-            <marker date="1506148695270" expanded="true" signature="782:858" ph="{...}" />
-            <marker date="1506148695270" expanded="true" signature="888:964" ph="{...}" />
-            <marker date="1506148695270" expanded="true" signature="973:1028" ph="/* public T TakeTop() ... */" />
+            <marker date="1506153180374" expanded="true" signature="6:94" ph="..." />
+            <marker date="1506153180374" expanded="true" signature="111:1317" ph="{...}" />
+            <marker date="1506153180374" expanded="true" signature="145:1315" ph="{...}" />
+            <marker date="1506153180374" expanded="true" signature="256:690" ph="{...}" />
+            <marker date="1506153180374" expanded="true" signature="299:384" ph="{...}" />
+            <marker date="1506153180374" expanded="true" signature="401:667" ph="{...}" />
+            <marker date="1506153180374" expanded="true" signature="514:591" ph="{...}" />
+            <marker date="1506153180374" expanded="true" signature="727:1032" ph="{...}" />
+            <marker date="1506153180374" expanded="true" signature="774:917" ph="{...}" />
+            <marker date="1506153180374" expanded="true" signature="934:1022" ph="{...}" />
+            <marker date="1506153180374" expanded="true" signature="1063:1139" ph="{...}" />
+            <marker date="1506153180374" expanded="true" signature="1169:1245" ph="{...}" />
+            <marker date="1506153180374" expanded="true" signature="1254:1309" ph="/* public T TakeTop() ... */" />
           </folding>
         </state>
       </provider>

@@ -17,7 +17,13 @@ namespace Queue
             }
             else
             {
-                
+                int savedElement = Que[0];
+                for (int i = 0; i < Que.Length -1; i++)
+                {
+                    Que[i] = Que[i + 1];
+                }
+                count--;
+                return savedElement;
             }
             
         } 
@@ -27,6 +33,8 @@ namespace Queue
             if (Que.Length == count)
             {
                 Array.Resize(ref Que, Que.Length * 2);
+                Que[count] = take;
+                count++;
             }
             else
             {
